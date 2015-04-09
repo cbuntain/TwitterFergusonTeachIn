@@ -1,0 +1,25 @@
+# Built-in Packages
+---
+time
+calendar
+codecs
+datetime
+json
+sys
+gzip
+string
+glob
+re
+
+# Often-Included Packages
+---
+numpy as np
+matplotlib.pyplot
+
+# Additional Packages
+---
+tweepy
+networkx
+gensim
+nltk
+basemap
